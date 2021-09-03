@@ -1,0 +1,2 @@
+Face Mask Detector using Keras, Tensorflow, MobileNet and OpenCV.
+This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19.
